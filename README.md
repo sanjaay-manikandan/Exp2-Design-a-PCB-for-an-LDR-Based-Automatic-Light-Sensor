@@ -19,7 +19,7 @@ Circuit Diagram
 
 
 Procedure
-
+```
 1.Open KiCad and create a new project.
 2.Draw the schematic by placing the LDR, transistor, resistors, preset, LED, and power connector.
 3.Connect the components according to the circuit diagram.
@@ -33,21 +33,18 @@ Procedure
 Add silkscreen labels, reference designators, and board information.
 Generate the Gerber and drill files required for PCB fabrication.
 Verify the PCB layout using a Gerber viewer.
+```
 
+Schematic Output:
 
-Output:
+<img width="713" height="627" alt="image" src="https://github.com/user-attachments/assets/4109492c-19c6-4839-bb55-07c5662720b7" />
 
+Design Rule :
 
+<img width="1438" height="753" alt="image" src="https://github.com/user-attachments/assets/4e77273f-d681-461e-9413-8ab9697b3c02" />
 
-
-
-
-
-
-
-
-
-
+3D Output :
+<img width="1675" height="1012" alt="automatic_street_light_controller" src="https://github.com/user-attachments/assets/abcab593-2b9e-4dd8-8091-6b042a7644c6" />
 
 
 Result
